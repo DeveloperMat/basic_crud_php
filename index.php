@@ -88,7 +88,7 @@ while($row=mysqli_fetch_array($execute_id)){
         <div class="col l7 offset-l5" style="position:absolute; top:15%;">
 
             <table>
-                <h5 class="blue-text">List of Alumns</h5>
+                <h5 class="blue-text">LIST OF STUDENTS</h5>
                 <thead>
                     <tr>
                         <th>Register Date</th>
